@@ -12,4 +12,5 @@ This project uses neural network to detect the number drawn by the user in a pyg
 
 ## Project Demo
 
-[Ml.webm](https://user-images.githubusercontent.com/53789599/212221587-f991c2f5-0a69-427b-a589-1bc5ce7bbf98.webm)
+https://user-images.githubusercontent.com/53789599/212221712-d712c3ef-ceeb-4285-9563-2b7e32091a34.mp4
+
